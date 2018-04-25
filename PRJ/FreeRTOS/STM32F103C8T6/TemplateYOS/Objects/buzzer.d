@@ -1,0 +1,16 @@
+.\objects\buzzer.o: HARDWARE\buzzer.c
+.\objects\buzzer.o: HARDWARE\buzzer.h
+.\objects\buzzer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\buzzer.o: .\SYSTEM\sys\sys.h
+.\objects\buzzer.o: .\USER\stm32f10x.h
+.\objects\buzzer.o: .\CORE\core_cm3.h
+.\objects\buzzer.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\buzzer.o: .\USER\system_stm32f10x.h
+.\objects\buzzer.o: .\USER\stm32f10x_conf.h
+.\objects\buzzer.o: .\FWLIB\inc\stm32f10x_gpio.h
+.\objects\buzzer.o: .\USER\stm32f10x.h
+.\objects\buzzer.o: .\FWLIB\inc\stm32f10x_i2c.h
+.\objects\buzzer.o: .\FWLIB\inc\stm32f10x_rcc.h
+.\objects\buzzer.o: .\FWLIB\inc\stm32f10x_spi.h
+.\objects\buzzer.o: .\FWLIB\inc\stm32f10x_usart.h
+.\objects\buzzer.o: .\FWLIB\inc\misc.h

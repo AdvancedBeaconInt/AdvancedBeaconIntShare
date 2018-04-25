@@ -1,0 +1,14 @@
+.\objects\delay.o: USER\delay.c
+.\objects\delay.o: USER\delay.h
+.\objects\delay.o: USER\stm32f10x.h
+.\objects\delay.o: .\CORE\core_cm3.h
+.\objects\delay.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\delay.o: USER\system_stm32f10x.h
+.\objects\delay.o: USER\stm32f10x_conf.h
+.\objects\delay.o: .\FWLIB\inc\stm32f10x_gpio.h
+.\objects\delay.o: .\USER\stm32f10x.h
+.\objects\delay.o: .\FWLIB\inc\stm32f10x_i2c.h
+.\objects\delay.o: .\FWLIB\inc\stm32f10x_rcc.h
+.\objects\delay.o: .\FWLIB\inc\stm32f10x_spi.h
+.\objects\delay.o: .\FWLIB\inc\stm32f10x_usart.h
+.\objects\delay.o: .\FWLIB\inc\misc.h
